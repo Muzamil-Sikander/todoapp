@@ -1,0 +1,24 @@
+.main{
+    margin: 60px ;
+    text-align: center;
+}
+
+.bttn{
+    size: 35px;
+    height: 19px;
+    width: 35px;
+    padding-left: 50px;
+    margin-left: 40px;
+}
+.container{
+    margin: 50 ;
+
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    
+
+
+}
+
